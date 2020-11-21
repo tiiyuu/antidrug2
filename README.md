@@ -1,2 +1,2 @@
 # Visit
-https://tiiyuu.github.io/antidrug2/
+https://tiiyuu.github.io/antidrug2
